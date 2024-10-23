@@ -22,7 +22,7 @@ Construisez votre propre hamburger en utilisant des fichiers texte pour chaque c
 
 - **git init** ----> pour initialiser le dossier courant
 
-- **git add nom_fichier ou .** ----> (pour tout les fichiers) pour preparer l’envoie
+- **git add nom_fichier ou . (. pour tout les fichiers)** ----> pour preparer l’envoie
 
 - **git commit - m «  message»** ----> pour valider les changement et mettre un message
 
